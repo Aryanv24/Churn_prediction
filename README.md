@@ -89,10 +89,10 @@ pip install -r requirements.txt
 Scikit-learn
 Streamlit
 Matplotlib
-eSaborn
+Seaborn
 Plotly
 
 👨‍💻 Author
-Sahil Hingu
+Aryan gupta
 B.Tech IT | Shah & Anchor Kuttchi Engineering College
-📧 Email: sahilhingu31@gmail.com
+📧 Email: aryangupta240704@gmail.com
